@@ -1,0 +1,12 @@
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Users\dimad\Desktop\.net-core\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
